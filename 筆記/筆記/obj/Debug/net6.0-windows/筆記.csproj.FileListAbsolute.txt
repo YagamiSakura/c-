@@ -1,0 +1,17 @@
+C:\Users\vvb50\Desktop\c#\筆記\筆記\bin\Debug\net6.0-windows\筆記.exe
+C:\Users\vvb50\Desktop\c#\筆記\筆記\bin\Debug\net6.0-windows\筆記.deps.json
+C:\Users\vvb50\Desktop\c#\筆記\筆記\bin\Debug\net6.0-windows\筆記.runtimeconfig.json
+C:\Users\vvb50\Desktop\c#\筆記\筆記\bin\Debug\net6.0-windows\筆記.dll
+C:\Users\vvb50\Desktop\c#\筆記\筆記\bin\Debug\net6.0-windows\筆記.pdb
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.csproj.AssemblyReference.cache
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.Form1.resources
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.csproj.GenerateResource.cache
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.AssemblyInfoInputs.cache
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.AssemblyInfo.cs
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.csproj.CoreCompileInputs.cache
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.dll
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\refint\筆記.dll
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.pdb
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\筆記.genruntimeconfig.cache
+C:\Users\vvb50\Desktop\c#\筆記\筆記\obj\Debug\net6.0-windows\ref\筆記.dll
